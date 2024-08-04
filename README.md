@@ -1,8 +1,8 @@
 # Bucket-List Site
 ![image](https://github.com/aimanshahpuri/Bucket-List/assets/125454433/551e26b7-da42-4956-af88-f12a18f1211e)
 
-This project is created using flask
-BucketList using Flask
+This project is created using flask.
+-------BucketList using Flask-------
 
 In this Project :
 ------>I made a post request to save a new item
